@@ -1,8 +1,8 @@
- # PrivateSecre (demo site)
+ # 118 440 (demo site)
 
 Domain: [privatesecretary.online](https://privatesecretary.online)
 
-Static marketing site in **British English (UK)** for a virtual secretary and concierge — diary, letters and appointments, plus restaurant, hotel and travel bookings.
+Static marketing site in **British English (UK)** for the directory enquiries service **118440**.
 
 ## Run on localhost
 
@@ -30,5 +30,5 @@ Edit `js/config.js`:
 
 ## Replace placeholders
 
-- Phone: search for `XXXXX` and `tel:XXXXX`.
+- Phone: the service number on the site is 118 440 (`tel:118440`).
 - Legal: `legal.html`, `privacy.html`, `cookies.html`, `terms.html`, `service.html`. Highlighted fields in `[square brackets]` still need the real company, ICO and Ofcom PRS registration details before launch.
